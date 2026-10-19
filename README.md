@@ -25,7 +25,7 @@ Want to run from source with your own GIFs?
 py -3.12 -m pip install Pillow
 python clock.py
 
-
+```
 
 ##РУССКИЙ
 # 🕰️ Digital Hanging Clock Slideshow (Nyan Cat Edition)
